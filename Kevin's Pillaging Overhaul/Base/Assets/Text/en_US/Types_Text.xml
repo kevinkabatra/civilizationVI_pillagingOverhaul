@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Types_Text -->
+<!-- Author: Kevin Kabatra -->
+<!-- DateCreated: 4/18/2019 10:12:32 PM -->
+<GameData>
+	<EnglishText>>
+		<!-- Policies -->
+		<Row>
+			<Tag>LOC_POLICY_RANSACKING_NAME</Tag>
+			<Text>Ransacking</Text>
+		</Row>
+	</EnglishText>>
+</GameData>

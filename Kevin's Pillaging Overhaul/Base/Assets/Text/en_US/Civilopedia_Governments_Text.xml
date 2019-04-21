@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Civilopedia_Governments_Text -->
+<!-- Author: Kevin Kabatra -->
+<!-- DateCreated: 4/18/2019 10:20:55 PM -->
+<GameData>
+	<EnglishText>
+		<Row>
+			<Tag>LOC_PEDIA_GOVERNMENTS_PAGE_POLICY_RANSCKING_CHAPTER_HISTORY_PARA_1</Tag>
+			<Text>Ransacking, also commonly referred to as looting, pillaging, and plundering, has long been a part of human history. This practice was especially common during times of conflict or disasters. During times of conflict wealth, cultural artifacts, equipment, and even the population itself were often absorbed by the victorious nation. This act caused the victims to be robbed of their wealth and dignity within defeat. </Text>
+		</Row>
+	</EnglishText>
+</GameData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Icon_Policies -->
+<!-- Author: kevin -->
+<!-- DateCreated: 4/21/2019 12:07:47 AM -->
+<GameData>
+	<IconAliases>
+		<Row>
+			<Name>ICON_POLICY_RANSACKING</Name>
+			<OtherName>ICON_POLICY_MILITARY</OtherName>
+		</Row>
+	</IconAliases>
+</GameData>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Policies -->
+<!-- Author: Kevin Kabatra -->
+<!-- DateCreated: 4/18/2019 10:20:45 AM -->
+<GameData>
+	<Types>
+		<Row>
+			<Type>POLICY_RANSACKING</Type>
+			<Kind>KIND_POLICY</Kind>
+		</Row>
+	</Types>
+	<Policies>
+		<!-- Modern Era -->
+		<Row>
+			<PolicyType>POLICY_RANSACKING</PolicyType>
+			<Name>LOC_POLICY_RANSACKING_NAME</Name>
+			<Description>LOC_POLICY_RANSACKING_DESCRIPTION</Description>
+			<PrereqCivic>CIVIC_MOBILIZATION</PrereqCivic>
+			<GovernmentSlotType>SLOT_MILITARY</GovernmentSlotType>
+		</Row>
+	</Policies>
+	<ObsoletePolicies>
+		<!-- Modern Era -->
+		<Row>
+			<PolicyType>POLICY_TOTAL_WAR</PolicyType>
+			<ObsoletePolicy>POLICY_RANSACKING</ObsoletePolicy>
+		</Row>
+	</ObsoletePolicies>
+	<PolicyModifiers>
+		<Row>
+			<PolicyType>POLICY_RANSACKING</PolicyType>
+			<ModifierId>RANSACKING_DOUBLEPILLAGEDISTRICT</ModifierId>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_RANSACKING</PolicyType>
+			<ModifierId>RANSACKING_DOUBLEPILLAGEIMPROVE</ModifierId>
+		</Row>
+	</PolicyModifiers>	
+	<Modifiers>
+		<Row>
+			<ModifierId>RANSACKING_DOUBLEPILLAGEDISTRICT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_DISTRICT_PILLAGE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>RANSACKING_DOUBLEPILLAGEIMPROVE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_IMPROVEMENT_PILLAGE</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>RANSACKING_DOUBLEPILLAGEDISTRICT</ModifierId>
+			<Name>Amount</Name>
+			<Value>3</Value>
+			<Extra>-1</Extra>
+		</Row>
+		<Row>
+			<ModifierId>RANSACKING_DOUBLEPILLAGEIMPROVE</ModifierId>
+			<Name>Amount</Name>
+			<Value>3</Value>
+			<Extra>-1</Extra>
+		</Row>
+	</ModifierArguments>
+</GameData>

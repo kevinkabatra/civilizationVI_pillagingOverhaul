@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Civics_Text -->
+<!-- Author: kevin -->
+<!-- DateCreated: 4/18/2019 10:25:38 PM -->
+<GameData>
+	<!--
+	<LocalizedText>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION">
+			<Text>Yields gained from pillaging and coastal raids are +100%. +50% rewards from plundering [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION">
+			<Text>Yields gained from pillaging, coastal raids, and plundering [ICON_TradeRoute] Trade Routes are +50%.</Text>
+		</Row>
+	</LocalizedText>
+	-->
+</GameData>

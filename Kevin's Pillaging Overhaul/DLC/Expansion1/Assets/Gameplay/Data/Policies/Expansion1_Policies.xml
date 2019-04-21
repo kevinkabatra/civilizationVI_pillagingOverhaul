@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Expansion1_Policies -->
+<!-- Author: kevin -->
+<!-- DateCreated: 4/18/2019 10:27:00 PM -->
+
+<GameData>
+	<!--
+	<Policies>
+		<Update>
+			<Where Description="LOC_POLICY_TOTAL_WAR_DESCRIPTION"/>
+			<Set Description="LOC_POLICY_TOTAL_WAR_EXPANSION1_ALT_DESCRIPTION"/>
+		</Update>
+		<Update>
+			<Where Description="LOC_POLICY_TOTAL_WAR_DESCRIPTION"/>
+			<Set Description="LOC_POLICY_TOTAL_WAR_EXPANSION1_DESCRIPTION"/>
+		</Update>
+	</Policies>
+	<PolicyModifiers>
+		<Row>
+			<PolicyType>POLICY_TOTAL_WAR</PolicyType>
+			<ModifierId>TOTAL_WAR_PLUNDER_BONUS</ModifierId>
+		</Row>
+	</PolicyModifiers>
+	<Modifiers>
+		<Row>
+			<ModifierId>TOTAL_WAR_PLUNDER_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_PLUNDER_YIELDS</ModifierType>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Update>
+			<Where ModifierId="RAID_DOUBLEPILLAGEIMPROVE"/>
+			<Set>
+				<Value>50</Value>
+			</Set>
+		</Update>
+		<Update>
+			<Where ModifierId="SACK_DOUBLEPILLAGEDISTRICT"/>
+			<Set>
+				<Value>50</Value>
+			</Set>
+		</Update>
+		<Update>
+			<Where ModifierId="TOTALWAR_DOUBLEPILLAGEDISTRICT"/>
+			<Set>
+				<Value>50</Value>
+			</Set>
+		</Update>
+		<Update>
+			<Where ModifierId="TOTALWAR_DOUBLEPILLAGEIMPROVE"/>
+			<Set>
+				<Value>50</Value>
+			</Set>
+		</Update>
+		<Row>
+			<ModifierId>TOTAL_WAR_PLUNDER_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>50</Value>
+		</Row>
+	</ModifierArguments>
+	-->
+	<!-- 
+	ToDo: update this file with the data that I need for this mod. Will need to use the update function so that the 
+	mod will correctly set the policy to add an additional 200% to pillaging.
+	-->
+</GameData>

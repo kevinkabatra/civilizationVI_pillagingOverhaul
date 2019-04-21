@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Civic_Text -->
+<!-- Author: Kevin Kabatra -->
+<!-- DateCreated: 4/18/2019 10:17:29 PM -->
+<GameData>
+	<EnglishText>
+		<!-- Policy Descriptions -->
+		<Row>
+			<Tag>LOC_POLICY_RANSACKING_DESCRIPTION</Tag>
+			<Text>Yields gained from pillaging are quadrupled.</Text>
+		</Row>
+	</EnglishText>
+</GameData>
