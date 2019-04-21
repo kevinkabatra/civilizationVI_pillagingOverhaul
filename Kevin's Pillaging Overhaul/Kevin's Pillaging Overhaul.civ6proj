@@ -17,6 +17,7 @@
     <AssemblyName>Kevin's Pillaging Overhaul</AssemblyName>
     <RootNamespace>Kevin's Pillaging Overhaul</RootNamespace>
     <Authors>Kevin Kabatra</Authors>
+    <Homepage>https://github.com/kevinkabatra/civilizationVI_pillagingOverhaul</Homepage>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
